@@ -2,7 +2,7 @@
 
 * **작성 일시**: 2026년 9월 22일 22:00
 * **작업 환경**: Ubuntu 24.04 LTS (NVIDIA GeForce RTX 4060 Laptop)
-* **수행자**: 심준 & 아티 (A-ti)
+* **수행자**: 심준우 & 아티 (A-ti)
 * **대상 하드웨어**: Intel RealSense D435 Depth Camera
 
 ---
